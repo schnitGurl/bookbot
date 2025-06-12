@@ -1,2 +1,3 @@
 # bookbot
-Build a statistical model of a novel without a shovel
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
